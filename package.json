@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zombeteiro/youtube_bot/issues"
   },
-  "homepage": "https://github.com/Zombeteiro/youtube_bot#readme"
+  "homepage": "https://github.com/Zombeteiro/youtube_bot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
